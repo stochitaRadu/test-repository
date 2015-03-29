@@ -1,2 +1,4 @@
 # test-repository
-This is a test repository that I'm creating
+
+This is just a test that I'm making. Heyyy!
+I really like gitHub. it's pretty cool
